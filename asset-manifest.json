@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Ravindrababugollavilli/Portfolio_ravi/static/css/main.bf538fe7.css",
+    "main.js": "/Ravindrababugollavilli/Portfolio_ravi/static/js/main.387bd9d0.js",
+    "static/media/ravindra.jpg": "/Ravindrababugollavilli/Portfolio_ravi/static/media/ravindra.8a639b51f3ff89df2348.jpg",
+    "index.html": "/Ravindrababugollavilli/Portfolio_ravi/index.html",
+    "main.bf538fe7.css.map": "/Ravindrababugollavilli/Portfolio_ravi/static/css/main.bf538fe7.css.map",
+    "main.387bd9d0.js.map": "/Ravindrababugollavilli/Portfolio_ravi/static/js/main.387bd9d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.387bd9d0.js"
+  ]
+}
